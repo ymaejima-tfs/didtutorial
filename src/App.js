@@ -30,7 +30,7 @@ function App() {
   return (
     <div className="App">
       <WalletContextProvider>
-        <BrowserRouter basename="/">
+        <BrowserRouter basename="/didtutorial/">
 
           <AppBar position="static">
             <Toolbar>
