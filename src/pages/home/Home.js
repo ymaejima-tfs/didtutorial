@@ -6,7 +6,7 @@ function HomePane() {
     <div>
       <h1>Decentralized ID Demo</h1>
       <p>
-        This page demonstrait what decentralized ID can.
+        This page demonstrates what decentralized ID can.
       </p>
       <Link to='/key'>
         <h2>Key selection</h2>
